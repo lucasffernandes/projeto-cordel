@@ -3,4 +3,4 @@ Este é um projeto desenvolvido com HTML5 e CSS3, criado com o objetivo de prati
 
 O layout e a estética foram inspirados na literatura de cordel, valorizando elementos visuais marcantes e a fluidez do conteúdo ao rolar a página.
 
-🔗 Acesse o projeto aqui: <a link="https://lucasffernandes.github.io/projeto-cordel/">Veja o Projeto Cordel</a>
+🔗 Acesse o projeto aqui: <a href="https://lucasffernandes.github.io/projeto-cordel/">Veja o Projeto Cordel</a>
